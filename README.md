@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/azazo1">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false"/>
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=5)
-![Time Spend On](https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact)
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=5"/>
+</a>
+<a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact"/>
+</a>
