@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi%2C%20there👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=My%20name%20is%20azazo1😎&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
+<div style="display: flex; flex-direction: column">
 <a href="https://github.com/azazo1">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false"/>
 </a>
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=5"/>
 </a>
 <a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact"/>
 </a>
+</div>
