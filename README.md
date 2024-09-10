@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi, there👋&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi%2C%20there👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=My%20name%20is%20azazo1😎&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
+![Stats](https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false)
