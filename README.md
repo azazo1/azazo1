@@ -12,42 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-}
-.row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 10px 0;
-    width: 100%;
-}
-.row img {
-    height: auto;
-}
-.row:first-child img {
-    width: 80%;
-}
-.row:last-child img:first-child {
-    width: 32%; /* 4/10 = 40% of 80% */
-    margin-right: 2%; /* Add gap between images */
-}
-.row:last-child img:last-child {
-    width: 48%; /* 6/10 = 60% of 80% */
-}
-</style>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi%2C%20there👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=My%20name%20is%20azazo1😎&descAlign=50&descSize=30&descAlignY=60&animation=twinkling"/>
-<div class="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false"/>
+<!-- 动态标题 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi%2C%20there👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=My%20name%20is%20azazo1😎&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Header Image" style="width: 80%; display: block; margin: 0 auto;"/>
+
+<!-- 第一行内容 -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false" alt="GitHub Stats" style="width: 80%;"/>
 </div>
-<div class="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=10"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact"/>
+
+<!-- 第二行内容 -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=10" alt="Top Languages" style="width: 32%; display: inline-block; margin-right: 2%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact" alt="Wakatime Stats" style="width: 48%; display: inline-block;"/>
 </div>
