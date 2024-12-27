@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <!-- 第一行内容 -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false" alt="GitHub Stats" style="width: 90%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=azazo1&theme=transparent&include_all_commits=true&show_icons=true&hide_border=false" alt="GitHub Stats" style="height: 200px;"/>
 </div>
 
 <!-- 第二行内容 -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=10" alt="Top Languages" style="width: 38%; display: inline-block; margin-right: 2%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact" alt="Wakatime Stats" style="width: 52%; display: inline-block;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azazo1&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&langs_count=10" alt="Top Languages" style="height: 220px; display: inline-block; margin-right: 2%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azazo1&theme=transparent&hide_border=false&layout=compact" alt="Wakatime Stats" style="height: 220px; display: inline-block;"/>
 </div>
